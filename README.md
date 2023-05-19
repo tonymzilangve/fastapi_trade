@@ -1,2 +1,2 @@
 # fastapi_trade
-trading_app
+< trading_app >
